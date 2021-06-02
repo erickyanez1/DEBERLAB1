@@ -156,8 +156,8 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/12cap2_P36-12.png)
 
 
-# **4. VIDEO**
+# **4. VÍDEO**
 
 # **5. CONCLUSIONES**
 
-# **6. BIBLIOGRAFIA**
+# **6. BIBLIOGRAFÍA**
