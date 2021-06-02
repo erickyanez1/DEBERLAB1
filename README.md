@@ -33,7 +33,35 @@
 
 - Ejercicios Capítulo 1
 
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-1.PNG)
 
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-2.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-3.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-6.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-9.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-12.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-15.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-17.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-19.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-21.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-23.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-25.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-26.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-28.PNG)
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/cap1-35.PNG)
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/36cap1_P36-12.png)
 
