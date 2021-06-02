@@ -14,7 +14,7 @@
   - dasda
   - dsasdas
 
-# **2.MARCO TEÓRICO**
+# **2. MARCO TEÓRICO**
 
 - Capítulo 1
 
@@ -25,14 +25,13 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa5_cap1.png)
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa6_cap1.png)
 
-
-# •Capitulo 2
+- Capitulo 2
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa2_cap2.jpg)
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-# • Ejercicio capitulo 1
+- Ejercicios Capítulo 1
 
 
 
@@ -90,7 +89,7 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/53cap1_P36-12.png)
 
 
-# •Ejercicios capitulo 2
+- Ejercicios Capítulo 2
 
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/1cap2_P36-12.png)
@@ -127,15 +126,5 @@
 
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/12cap2_P36-12.png)
-
-
-# • Problema capitulo 1
-
-
-
-
-
-
-# • Problema capitulo 2
 
 
