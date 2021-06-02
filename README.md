@@ -1,25 +1,24 @@
 # InformeTarea
 
 
-**Integrantes**
+#**Integrantes**
 
 •Arias Marco
 
 •Villavicencio Alina
 
-•Yanez Erick
+•Yánez Erick
 
 
 **1.OBJETIVOS**
 
+  - asdsd
+  - dasda
+  - dsasdas
 
+#**2.MARCO TEÓRICO**
 
-
-
-
-**2.MARCO TEÓRICO**
-
-•Capitulo 1
+#•Capitulo 1
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa1_cap1.png)
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa2_cap1.png)
@@ -29,13 +28,13 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa6_cap1.png)
 
 
-•Capitulo 2
+#•Capitulo 2
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa2_cap2.jpg)
 
-**3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+#**3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-• Ejercicio capitulo 1
+#• Ejercicio capitulo 1
 
 
 
@@ -132,13 +131,13 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/12cap2_P36-12.png)
 
 
-• Problema capitulo 1
+#• Problema capitulo 1
 
 
 
 
 
 
-• Problema capitulo 2
+#• Problema capitulo 2
 
 
