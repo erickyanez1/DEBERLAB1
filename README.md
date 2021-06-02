@@ -29,7 +29,7 @@
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa2_cap2.jpg)
 
-# **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+# **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 - Ejercicios Capítulo 1
 
@@ -128,3 +128,8 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/12cap2_P36-12.png)
 
 
+# **4. VIDEO**
+
+# **5. CONCLUSIONES**
+
+# **6. BIBLIOGRAFIA**
