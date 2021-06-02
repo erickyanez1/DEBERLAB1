@@ -1,7 +1,7 @@
 # InformeTarea
 
 
-#**Integrantes**
+**Integrantes**
 
 - Arias Marco
 - Villavicencio Alina
