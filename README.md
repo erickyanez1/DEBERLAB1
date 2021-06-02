@@ -31,7 +31,7 @@
 
 •Capitulo 2
 
-
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/Cap2.jpg)
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
