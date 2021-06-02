@@ -29,5 +29,18 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa6_cap1.png)
 
 
+•Capitulo 2
+
+
+**3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+• Problema capitulo 1
+
+
+
+
+
+
+• Problema capitulo 2
 
 
