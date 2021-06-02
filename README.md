@@ -32,7 +32,105 @@
 •Capitulo 2
 
 
+
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+• Ejercicio capitulo 1
+
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/36cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/37cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/38cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/39cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/40cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/41cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/42cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/43cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/44cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/45cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/46cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/47cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/48cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/49cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/50cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/51cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/52cap1_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/53cap1_P36-12.png)
+
+
+•Ejercicios capitulo 2
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/1cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/2cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/3cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/4cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/5cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/6cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/7cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/8cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/9cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/10cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/11cap2_P36-12.png)
+
+
+![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/12cap2_P36-12.png)
+
 
 • Problema capitulo 1
 
