@@ -3,11 +3,9 @@
 
 #**Integrantes**
 
-•Arias Marco
-
-•Villavicencio Alina
-
-•Yánez Erick
+- Arias Marco
+- Villavicencio Alina
+- Yánez Erick
 
 
 **1.OBJETIVOS**
