@@ -1,14 +1,14 @@
 # InformeTarea
 
 
-**Integrantes**
+# **Integrantes**
 
 - Arias Marco
 - Villavicencio Alina
 - Yánez Erick
 
 
-**1.OBJETIVOS**
+# **1. OBJETIVOS**
 
   - asdsd
   - dasda
