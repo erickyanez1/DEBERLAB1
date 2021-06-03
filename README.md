@@ -2,7 +2,7 @@
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png)
 
-# **Integrantes**
+# **INTEGRANTES**
 
 - Arias Marco
 - Villavicencio Alina
