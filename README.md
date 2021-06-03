@@ -11,7 +11,11 @@
 
 # **1. OBJETIVOS**
 
-  - asdsd
+**OBJETIVO GENERAL**
+  - sad
+ 
+ **OBJETIVOS ESPECÍFICOS**
+  - asd
   - dasda
   - dsasdas
 
