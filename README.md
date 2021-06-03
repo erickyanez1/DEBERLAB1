@@ -12,12 +12,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - sad
+  - Comprender el Sistema Internacional de Unidades (SI) para la manipulación de Unidades referentes a conversiones numéricas, cálculos y mediciones en Circuitos Eléctricos lo cual genere conocimientos acertados en la rama de la Ingeniería. 
  
  **OBJETIVOS ESPECÍFICOS**
-  - asd
-  - dasda
-  - dsasdas
+  - Analizar los factores de conversiones y notaciones de potencias mediante la lectura y resolución de ejercicios del libro Análisis de Circuitos con el fin de que nos facilite en futuras aplicaciones referentes al estudio.
+  - Identificar los conceptos de Voltaje y Corriente que nos permita la resolución y graficación mental de circuitos electrónicos básicos para posteriormente aplicarlos a una situación real.
+  - Determinar como influye las mediciones y cálculos para que un circuito electrónico sea completamente funcional con el fin de no introducirnos en errores comunes.
 
 # **2. MARCO TEÓRICO**
 
@@ -188,7 +188,15 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/21cap2_P1.jpg)
 # **4. VÍDEO**
 
+https://www.youtube.com/watch?v=7ZzXSzyMtbY
+
 # **5. CONCLUSIONES**
+
+Se concluye que:
+
+- A partir de la lectura realizada de ambos capitulos, fuimos capaces de resolver diferentes problemas de conversiones numéricas y de potencias de diez, lo cuál nos facilitó la comprensión de las Unidades del Sistema Internacional.
+- Una vez realizados los cálculos y diagramas de circuitos electrónicos, fuimos capaces de entender el concepto de como convergen los conceptos de Voltaje, Resistencia e Intensidad con el fin de relacionarlos unos a otros con la Ley de Ohm.
+- Un circuito electrónico es completamente funcional siempre y cuando no haya algún cortocircuito en él, para lo cuál con la realización de distintos cálculos como de Resistencia, se puede obtener una resistencia adecuada para que así la Intensidad fluya con normalidad sin temer a que haya alguna falla dentro del circuito.
 
 # **6. BIBLIOGRAFÍA**
 
