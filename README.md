@@ -26,7 +26,7 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa5_cap1.png)
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa6_cap1.png)
 
-- Capitulo 2
+- Capítulo 2
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/mapa2_cap2.jpg)
 
