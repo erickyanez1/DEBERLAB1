@@ -187,3 +187,6 @@
 # **5. CONCLUSIONES**
 
 # **6. BIBLIOGRAFÍA**
+
+
+Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores.
