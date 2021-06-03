@@ -156,7 +156,6 @@
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/12cap2_P36-12.png)
 
 
-![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/13cap2_P1.png)
 # **4. VÍDEO**
 
 # **5. CONCLUSIONES**
